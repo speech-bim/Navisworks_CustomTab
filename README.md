@@ -7,7 +7,7 @@ Navisworks plugin for automatic creation custom propeties tab based on txt file.
 
 #### Instruction:
 
-1. Run the "Custom Tab" plugin.
+1. Run the "Custom Tab" plugin in Navisworks 2019.
 2. Select NWC or NWD file. 
 3. Select TXT file with a list of new properties. TXT file structure must be:
 * The first line is the name of the new tab;
@@ -27,7 +27,7 @@ Plugin overview on youtube: https://www.youtube.com/channel/UC6fDdMZy6_jUKhOIp2F
 
 #### Инструкция по работе:
 
-1. Запустите плагин "Custom Tab" с вкладки "Надстройки инструментов 1".
+1. Запустите плагин "Custom Tab" с вкладки "Надстройки инструментов 1" в Navisworks 2019.
 2. Выберите файл NWC или NWD, в котором требуется создать новую вкладку. 
 3. Выберите txt файл со списком новых параметров. Структура TXT файла должна быть следующая:
 * Первая строка - имя новой вкладки;
@@ -44,13 +44,13 @@ Plugin overview on youtube: https://www.youtube.com/channel/UC6fDdMZy6_jUKhOIp2F
 ## Installation / Установка
 > EN:
 1. To install the plugin download the latest release 
-2. Place folders "" and "" to this path (if there is no "Plugins" foler, create it):
+2. Place folders "CustomTab.Speech" and "CustomTab_main.Speech" to this path (if there is no "Plugins" foler, create it):
 
     C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins
 
 > RU:
 1. Для установки плагина скачайте последний релиз
-2. Поместите папки "" и "" по этому пути (если папка "Plugins" отсутствует, то создайте её):
+2. Поместите папки "CustomTab.Speech" и "CustomTab_main.Speech" по этому пути (если папка "Plugins" отсутствует, то создайте её):
 
     C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins
 
