@@ -1,2 +1,13 @@
 # Navisworks_CustomTab
-Readme
+
+# Descriprion
+Плагин Navisworks для автоматического создания пользовательской вкладки параметров
+
+# Installation
+Для установки плагина
+
+# Links
+
+
+# About
+Плагин создан 
