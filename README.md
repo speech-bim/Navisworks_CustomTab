@@ -43,13 +43,13 @@ Plugin overview on youtube: https://www.youtube.com/channel/UC6fDdMZy6_jUKhOIp2F
 
 ## Installation / Установка
 > EN:
-1. To install the plugin download the latest release 
+1. To install the plugin download the latest [release](https://github.com/speech-bim/Navisworks_CustomTab/releases/tag/2019.1.0)
 2. Place folders "CustomTab.Speech" and "CustomTab_main.Speech" to this path (if there is no "Plugins" foler, create it):
 
     C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins
 
 > RU:
-1. Для установки плагина скачайте последний релиз
+1. Для установки плагина скачайте последний [релиз](https://github.com/speech-bim/Navisworks_CustomTab/releases/tag/2019.1.0)
 2. Поместите папки "CustomTab.Speech" и "CustomTab_main.Speech" по этому пути (если папка "Plugins" отсутствует, то создайте её):
 
     C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins
@@ -76,3 +76,5 @@ The plugin is based on following materials:
 * Amjad Ali
 
 * Arseniy Tikhomirov
+
+* Vladislav Prunskas
