@@ -1,0 +1,20 @@
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab_main.Speech\CustomTab_main.Speech.dll
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab_main.Speech\CustomTab_main.Speech.pdb
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.baml
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.g.cs
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech.g.resources
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.csproj.CopyComplete
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech.pdb
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\CustomTab_main\CustomTab_main\AddNewProperties\obj\Debug\CustomTab_main.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\CustomTab_main\CustomTab_main\AddNewProperties\obj\Debug\CustomTab_main.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\CustomTab_main\CustomTab_main\AddNewProperties\obj\Debug\CustomTab_main.csproj.CopyComplete
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\CustomTab_main\CustomTab_main\AddNewProperties\obj\Debug\CustomTab_main.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\CustomTab_main\CustomTab_main\AddNewProperties\obj\Debug\CustomTab_main.Speech.pdb
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.Speech.pdb

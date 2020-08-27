@@ -1,0 +1,30 @@
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.pdb
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\OpenFileDialogSample.baml
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\OpenFileDialogSample.g.cs
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.g.resources
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\OpenPluginWindow.baml
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\OpenPluginWindow.g.cs
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.g.resources
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csproj.CoreCompileInputs.cache
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\AddNewProperties\AddNewProperties.dll
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\AddNewProperties\AddNewProperties.pdb
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csproj.CopyComplete
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.dll
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.pdb
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\OpenPluginWindow.baml
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\OpenPluginWindow.g.cs
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties.csproj.CopyComplete
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab.Speech\CustomTab.Speech.dll
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab.Speech\CustomTab.Speech.pdb
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\CustomTab.Speech_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\CustomTab.Speech.g.resources
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\CustomTab.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties-Plugin\AddNewProperties\AddNewProperties\obj\Debug\CustomTab.Speech.pdb

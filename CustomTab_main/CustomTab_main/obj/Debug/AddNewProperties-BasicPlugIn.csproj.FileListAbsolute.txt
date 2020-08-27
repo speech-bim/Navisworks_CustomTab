@@ -1,0 +1,24 @@
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\bin\Debug\AddNewProperties.dll
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\bin\Debug\AddNewProperties.pdb
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\bin\Debug\Autodesk.Navisworks.Resolver.dll
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\bin\Debug\Autodesk.Navisworks.Resolver.xml
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties-BasicPlugIn.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\progressBar.baml
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\progressBar.g.cs
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties-BasicPlugIn.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\AddNewProperties-BasicPlugIn.csproj.CopyComplete
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\BasicPlugIn.ADSK\BasicPlugIn.ADSK.dll
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\BasicPlugIn.ADSK\BasicPlugIn.ADSK.pdb
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\BasicPlugIn.ADSK_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.g.resources
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.dll
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties-Plugin — Basic-Plugin\AddNewProperties\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.pdb
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\AddNewProperties-BasicPlugIn.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.baml
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.g.cs
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.g.resources
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\AddNewProperties-BasicPlugIn.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\AddNewProperties-BasicPlugIn.csproj.CopyComplete
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.dll
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.pdb

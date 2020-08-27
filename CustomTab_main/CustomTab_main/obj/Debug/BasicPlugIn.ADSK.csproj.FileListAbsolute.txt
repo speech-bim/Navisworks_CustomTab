@@ -1,0 +1,21 @@
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.baml
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.g.cs
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.g.resources
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.dll
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.pdb
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\BasicPlugIn.ADSK\BasicPlugIn.ADSK.dll
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\BasicPlugIn.ADSK\BasicPlugIn.ADSK.pdb
+C:\Users\developer\Documents\Projects\AddnewProperities\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.baml
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\progressBar.g.cs
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\BasicPlugIn.ADSK.csproj.CopyComplete
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab_main.Speech\CustomTab_main.Speech.dll
+C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab_main.Speech\CustomTab_main.Speech.pdb
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech.g.resources
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\CustomTab\AddnewProperties- Basic_Plugin\AddNewProperties-BasicPlugIn\AddNewProperties\obj\Debug\CustomTab_main.Speech.pdb
