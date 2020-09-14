@@ -14,7 +14,7 @@ namespace CustomTab
             Shortcut = "Ctrl+Shift+P",
             ShortcutWindowTypes = "")]
 
-    [PluginAttribute("CustomTab.CustomTab", 
+    [PluginAttribute("CustomTab", 
                     "Speech", 
                     ToolTip = "Добавление пользовательской панели свойств", 
                     DisplayName = "Custom Tab")]

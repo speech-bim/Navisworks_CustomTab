@@ -18,3 +18,7 @@ C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_Cust
 C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.csproj.CoreCompileInputs.cache
 C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.Speech.dll
 C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.Speech.pdb
+C:\Users\developer\Documents\Projects\pro\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\pro\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\pro\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.Speech.dll
+C:\Users\developer\Documents\Projects\pro\Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Debug\CustomTab_main.Speech.pdb
