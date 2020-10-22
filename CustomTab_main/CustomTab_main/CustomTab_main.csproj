@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CustomTab_main.Speech</RootNamespace>
     <AssemblyName>CustomTab_main.Speech</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -30,25 +31,60 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Revit2021|AnyCPU'">
+    <OutputPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Plugins\CustomTab_main.Speech\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Revit2019|AnyCPU'">
+    <OutputPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab_main.Speech\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Autodesk.Navisworks.Api">
+    <Reference Include="Autodesk.Navisworks.Api" Condition="'$(Configuration)|$(Platform)' == 'Revit2019|AnyCPU'">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.Api.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Autodesk.Navisworks.Automation">
+    <Reference Include="Autodesk.Navisworks.Automation" Condition="'$(Configuration)|$(Platform)' == 'Revit2019|AnyCPU'">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.Automation.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Autodesk.Navisworks.ComApi">
+    <Reference Include="Autodesk.Navisworks.ComApi" Condition="'$(Configuration)|$(Platform)' == 'Revit2019|AnyCPU'">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.ComApi.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Autodesk.Navisworks.Interop.ComApi">
+    <Reference Include="Autodesk.Navisworks.Interop.ComApi" Condition="'$(Configuration)|$(Platform)' == 'Revit2019|AnyCPU'">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.Interop.ComApi.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
-    <Reference Include="Autodesk.Navisworks.Resolver">
+    <Reference Include="Autodesk.Navisworks.Resolver" Condition="'$(Configuration)|$(Platform)' == 'Revit2019|AnyCPU'">
       <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.Resolver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+	
+	<Reference Include="Autodesk.Navisworks.Api" Condition="'$(Configuration)|$(Platform)' == 'Revit2021|AnyCPU'">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Autodesk.Navisworks.Api.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.Automation" Condition="'$(Configuration)|$(Platform)' == 'Revit2021|AnyCPU'">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Autodesk.Navisworks.Automation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.ComApi" Condition="'$(Configuration)|$(Platform)' == 'Revit2021|AnyCPU'">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Autodesk.Navisworks.ComApi.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.Interop.ComApi" Condition="'$(Configuration)|$(Platform)' == 'Revit2021|AnyCPU'">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Autodesk.Navisworks.Interop.ComApi.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.Resolver" Condition="'$(Configuration)|$(Platform)' == 'Revit2021|AnyCPU'">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Autodesk.Navisworks.Resolver.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PresentationCore" />

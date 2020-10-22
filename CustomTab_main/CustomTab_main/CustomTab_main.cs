@@ -45,16 +45,16 @@ namespace CustomTab_main
                         Document Doc = Autodesk.Navisworks.Api.Application.ActiveDocument;
                         // Select items to add newtab to 
                         IEnumerable<ModelItem> items = Doc.Models.RootItemDescendants;
-                            // Read the textfile of the properties
-                         AllLines = File.ReadAllText(textFile_path, Encoding.Default);
+                        // Read the textfile of the properties
+                        AllLines = File.ReadAllText(textFile_path, Encoding.Default);
 
-                         if (AllLines.Length > 0)
-                         {
-                             string[] Lines = AllLines.Split('\n');
-                             int N = Lines.Length;
-                             // Add newtab for the selected items
-                             Add_newTab(items, Lines, N);
-                         }
+                        if (AllLines.Length > 0)
+                        {
+                            string[] Lines = AllLines.Split('\n');
+                            int N = Lines.Length;
+                            // Add newtab for the selected items
+                            Add_newTab(items, Lines, N);
+                        }
                     }
                 }
                 return 1;
@@ -64,7 +64,7 @@ namespace CustomTab_main
                 MessageBox.Show("** ERROR **: " + e.Message);
                 return 0;
             }
-         
+
         }
 
         public void Add_newTab(IEnumerable<ModelItem> items, string[] Lines, int N)
@@ -76,6 +76,7 @@ namespace CustomTab_main
             string[] NewParameters = new string[N];
             string[] Parameters_hasAdded = new string[N];
             int ind = 0;
+            Boolean value_notNull = true;
             Boolean Parameter_isNotRepeated = true;
             ComApi.InwOaProperty[] NewProperties = new ComApi.InwOaProperty[N];
 
@@ -96,7 +97,7 @@ namespace CustomTab_main
                     {
                         // Check if line is empty
                         if (Lines[i] != null && Lines[i].Length > 1)
-                        {                                
+                        {
                             // Get Category, old property and new property from the line
                             string[] WordsInLine = Lines[i].Split('\t');
                             OldCategory[i] = WordsInLine[0];
@@ -104,6 +105,8 @@ namespace CustomTab_main
                             NewParameters[i] = WordsInLine[2];
                             // By default the property is not repeated
                             Parameter_isNotRepeated = true;
+                            // By default the value is not null
+                            value_notNull = true;
                             // Iterate over properties of the item
                             foreach (PropertyCategory oPC in oItem.PropertyCategories)
                             {
@@ -119,8 +122,7 @@ namespace CustomTab_main
                                             NewProperties[i].UserName = NewParameters[i];
 
                                             // Check if the property had been added
-                                            Parameters_hasAdded[ind] = NewParameters[i]; ind = ind + 1;
-                                            for (int d = 0; d < ind - 1; d++)
+                                            for (int d = 0; d < ind; d++)
                                             {
                                                 if (NewParameters[i] == Parameters_hasAdded[d])
                                                 {
@@ -143,26 +145,56 @@ namespace CustomTab_main
                                                         break;
                                                     case VariantDataType.DisplayString:
                                                         string NewValueDString = oDP.Value.ToDisplayString();
+                                                        if (NewValueDString == "0.00")
+                                                        {
+                                                            value_notNull = false;
+                                                            break;
+                                                        }
                                                         NewProperties[i].value = NewValueDString;
                                                         break;
                                                     case VariantDataType.Double:
                                                         double NewValueDouble = oDP.Value.ToDouble();
+                                                        if (NewValueDouble == 0)
+                                                        {
+                                                            value_notNull = false;
+                                                            break;
+                                                        }
                                                         NewProperties[i].value = NewValueDouble;
                                                         break;
                                                     case VariantDataType.DoubleAngle:
                                                         double NewValueAngle = oDP.Value.ToDoubleAngle();
+                                                        if (NewValueAngle == 0)
+                                                        {
+                                                            value_notNull = false;
+                                                            break;
+                                                        }
                                                         NewProperties[i].value = NewValueAngle;
                                                         break;
                                                     case VariantDataType.DoubleArea:
                                                         double NewValueArea = oDP.Value.ToDoubleArea();
+                                                        if (NewValueArea == 0)
+                                                        {
+                                                            value_notNull = false;
+                                                            break;
+                                                        }
                                                         NewProperties[i].value = NewValueArea * Math.Pow(meter_scale, 2);
                                                         break;
                                                     case VariantDataType.DoubleLength:
                                                         double NewValueLength = oDP.Value.ToDoubleLength();
+                                                        if (NewValueLength == 0)
+                                                        {
+                                                            value_notNull = false;
+                                                            break;
+                                                        }
                                                         NewProperties[i].value = NewValueLength * meter_scale;
                                                         break;
                                                     case VariantDataType.DoubleVolume:
                                                         double NewValueVolume = oDP.Value.ToDoubleVolume();
+                                                        if (NewValueVolume == 0)
+                                                        {
+                                                            value_notNull = false;
+                                                            break;
+                                                        }
                                                         NewProperties[i].value = NewValueVolume * Math.Pow(meter_scale, 3);
                                                         break;
                                                     case VariantDataType.IdentifierString:
@@ -171,6 +203,11 @@ namespace CustomTab_main
                                                         break;
                                                     case VariantDataType.Int32:
                                                         int NewValueInt = oDP.Value.ToInt32();
+                                                        if (NewValueInt == 0)
+                                                        {
+                                                            value_notNull = false;
+                                                            break;
+                                                        }
                                                         NewProperties[i].value = NewValueInt;
                                                         break;
                                                     case VariantDataType.NamedConstant:
@@ -191,7 +228,12 @@ namespace CustomTab_main
                                                         break;
                                                 }
                                                 // Add the new property to the new property category
-                                                newPvec.Properties().Add(NewProperties[i]);
+                                                if (value_notNull)
+                                                {
+                                                    newPvec.Properties().Add(NewProperties[i]);
+                                                    Parameters_hasAdded[ind] = NewParameters[i]; ind = ind + 1;
+
+                                                }
                                             }
                                         }
                                     }

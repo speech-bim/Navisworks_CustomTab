@@ -7,14 +7,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTab", "CustomTab\Cust
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Revit2019|Any CPU = Revit2019|Any CPU
+		Revit2021|Any CPU = Revit2021|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{899749C0-1833-449F-92DF-451A6284D610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{899749C0-1833-449F-92DF-451A6284D610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{899749C0-1833-449F-92DF-451A6284D610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{899749C0-1833-449F-92DF-451A6284D610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899749C0-1833-449F-92DF-451A6284D610}.Revit2019|Any CPU.ActiveCfg = Revit2019|Any CPU
+		{899749C0-1833-449F-92DF-451A6284D610}.Revit2019|Any CPU.Build.0 = Revit2019|Any CPU
+		{899749C0-1833-449F-92DF-451A6284D610}.Revit2021|Any CPU.ActiveCfg = Revit2021|Any CPU
+		{899749C0-1833-449F-92DF-451A6284D610}.Revit2021|Any CPU.Build.0 = Revit2021|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

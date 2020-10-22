@@ -14,7 +14,7 @@
         <Border Background="GhostWhite" BorderBrush="Gainsboro"  BorderThickness="2" Margin="0,0,0,5" Cursor="">
             <StackPanel Orientation="Vertical" Margin="0,8,0,0">
 
-                <GroupBox Header="Выберите файл для создание вкладки (.nwc | .nwd)" Margin="0,10" BorderThickness="1" FontWeight="Bold" BorderBrush="#FF514B4B" Height="90">
+                <GroupBox Header="Выберите файл для создания вкладки (.nwc | .nwd)" Margin="0,10" BorderThickness="1" FontWeight="Bold" BorderBrush="#FF514B4B" Height="90">
                     <StackPanel Margin="10" Orientation="Horizontal">
                         <Button Content="Выбрать файл"  Click="Select_Document"  Height="20" Width="90"/>
                         <Label  x:Name="Doc_label" Margin="10"  />
@@ -26,7 +26,7 @@
                         <Label  x:Name="textFile_label" Margin="10"  />
                     </StackPanel>
                 </GroupBox>
-                <GroupBox Header="Run Plugin" Margin="0,0" BorderThickness="1" FontWeight="Bold" BorderBrush="#FF514B4B" Height="130">
+                <GroupBox Header="Запуск плагина" Margin="0,0" BorderThickness="1" FontWeight="Bold" BorderBrush="#FF514B4B" Height="130">
 
                     <StackPanel Margin="10" Orientation="Vertical">
                         <StackPanel Margin="10,0" Orientation="Horizontal">

@@ -1,0 +1,8 @@
+C:\Program Files\Autodesk\Navisworks Manage 2021\Plugins\CustomTab.Speech\CustomTab.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab\CustomTab\obj\Revit2021\CustomTab.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab\CustomTab\obj\Revit2021\OpenPluginWindow.baml
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab\CustomTab\obj\Revit2021\OpenPluginWindow.g.cs
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab\CustomTab\obj\Revit2021\CustomTab.Speech_MarkupCompile.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab\CustomTab\obj\Revit2021\CustomTab.Speech.g.resources
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab\CustomTab\obj\Revit2021\CustomTab.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab\CustomTab\obj\Revit2021\CustomTab.Speech.dll
