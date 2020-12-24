@@ -3,7 +3,7 @@
 ## Description / Описание
 > EN:
 
-Navisworks plugin for automatic creation of custom properties tab based on txt file. This plugin finds an existing element parameter, takes its value and creates a new parameter with that value. The plugin processes all elements in selected NWC or NWD file.
+Navisworks plugin for automatic creation of custom properties tab based on txt file. This plugin finds an existing element parameter, takes its value and creates a new parameter with that value. The plugin processes all elements in selected NWC or NWD file except the elements that are at the lowest level in the file structure.
 
 #### Instruction:
 
@@ -23,7 +23,7 @@ Plugin overview on youtube: https://www.youtube.com/watch?v=ia8MRARQt40
 
 > RU:
 
-Плагин Navisworks для автоматического создания вкладки пользовательских параметров на основе txt файла. Плагин находит существующий параметр элемента, берет его значение и создает новый параметр с этим значением. Плагин обрабывает все элементы в выбранном NWC или NWD файле.
+Плагин Navisworks для автоматического создания вкладки пользовательских параметров на основе txt файла. Плагин находит существующий параметр элемента, берет его значение и создает новый параметр с этим значением. Плагин обрабывает все элементы в выбранном NWC или NWD файле кроме элементов, находящихся на самом низком уровне в структуре файла.
 
 #### Инструкция по работе:
 
