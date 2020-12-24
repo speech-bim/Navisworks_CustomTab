@@ -50,10 +50,29 @@ namespace CustomTab_main
 
                         if (AllLines.Length > 0)
                         {
-                            string[] Lines = AllLines.Split('\n');
-                            int N = Lines.Length;
+                            string[] Lines0 = AllLines.Split('\n');
+                            int N = Lines0.Length;
+
+                            string[] Lines = new string[N];
+
+                            for (int h = 0; h < N; h++)
+                            {
+                                string str = Lines0[h];
+                                int len = str.Length;
+
+                                if (str[len - 1].Equals('\r'))
+                                {
+                                    Lines[h] = str.Substring(0, len - 1);
+                                }
+                                else
+                                {
+                                    Lines[h] = str;
+
+                                }
+                            }
                             // Add newtab for the selected items
                             Add_newTab(items, Lines, N);
+
                         }
                     }
                 }

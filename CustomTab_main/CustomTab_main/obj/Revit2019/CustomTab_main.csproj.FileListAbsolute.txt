@@ -1,3 +1,9 @@
 C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\CustomTab_main.Speech\CustomTab_main.Speech.dll
 C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.csproj.CoreCompileInputs.cache
 C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\Navis_2019\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\removeEnter\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\removeEnter\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\Work in progress\removeEnter\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.Speech.dll
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\_Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\_Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Projects\2020_08 Navisworks Plug-in\_Navisworks_CustomTab\CustomTab_main\CustomTab_main\obj\Revit2019\CustomTab_main.Speech.dll
